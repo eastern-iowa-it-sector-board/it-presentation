@@ -10,4 +10,4 @@ A fully customizable presentation prepared to:
 
 Currently (8/22/2017) live on the [Bio::Neos](https://bioneos.com) website:
 
-**<https://present.bioneos.com/IntroToIT>**
+**<http://present.bioneos.com/IntroToIT>**
