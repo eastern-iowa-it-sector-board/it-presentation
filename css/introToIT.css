@@ -1,0 +1,96 @@
+@import url(https://fonts.googleapis.com/css?family=Pathway+Gothic+One);
+
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6
+{
+  font-family: "Pathway Gothic One", "League Gothic", sans-serif;
+  font-weight: 800;
+}
+
+.reveal .slides section .p { color: #9265ff; }
+.reveal .slides section .b { color: #42affa; }
+.reveal .slides section .g { color: #42b442; }
+.reveal .slides section .y { color: #F1D01D; }
+.reveal .slides section .bold { font-weight: bold; }
+
+.reveal .slides .br1 { margin-top: 2em; }
+.reveal .slides .br2 { margin-top: 1em; }
+
+.reveal .slides section .big 
+{
+  font-size: 1.2em;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-shadow: 0 1px #999; 
+}
+
+.reveal .left
+{
+  text-align: left;
+}
+.reveal .right
+{
+  text-align: right;
+}
+
+.reveal section img.none
+{
+  box-shadow: none;
+  border: none;
+  background: transparent;
+}
+
+.reveal section img.logo
+{
+  box-shadow: none;
+  border: none;
+  background: transparent;
+  height: 100px;
+  float: right;
+}
+
+.reveal section img.bio 
+{
+  border: none;
+  background: transparent;
+  margin: 10px 50px;
+  float: right;
+  height: 200px; 
+}
+.reveal section ul.bio 
+{
+  margin-top: -80px;
+}
+
+.reveal section .tagline
+{
+  font-style: italic;
+  font-size: .9em;
+}
+.reveal section .optional
+{
+  font-style: italic;
+  color: #5a5a5a;
+  text-align: center;
+  margin-top: 2em;
+  font-size: 1.5rem;
+}
+
+/** License Page **/
+.reveal section#license img
+{
+  height: 150px;
+}
+.reveal section#license .col
+{
+  width: 50%;
+  float: left;
+}
+.reveal section#license p
+{
+  font-size: .9em;
+}
