@@ -36,6 +36,12 @@
 {
   text-align: right;
 }
+.reveal section#title .attribution
+{
+  text-align: right;
+  font-size: 1.5rem;
+  font-style: italic;
+}
 
 .reveal section img.none
 {
